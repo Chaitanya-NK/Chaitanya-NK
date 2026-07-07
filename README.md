@@ -23,31 +23,22 @@ I'm a passionate **Release Engineer** at Veeva Systems, building bridges between
 
 ---
 
-## 🚀 Career Timeline
+## 🚀 Career Highlights
 
-```
-2024                                                    2026
- │
- ├─ NOV 18 ────────────────────────┬─────────────────────► MAY 26
- │                                  │
- │                                  ▼
- │                          🎯 PROMOTION 🎯
- │
- ├─► Associate Release Engineer     Release Engineer
- │   (Joined)                        (Current Role)
- │
- └─► Building CI/CD Excellence ◄─────────────────────────────┘
-     Optimizing Pipelines & Automation
-```
-
-<div align="center">
-
-| Phase | Role | Duration | Key Focus |
-|:---:|:---:|:---:|:---|
-| **Phase 1** | Associate Release Engineer | Nov 2024 - Apr 2026 | Learning, CI/CD fundamentals, Jenkins |
-| **Phase 2** | Release Engineer | May 2026 - Present | Leadership, Pipeline optimization, Strategic planning |
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💼 Current Role</h3>
+      <p><strong>Release Engineer</strong><br/>Veeva Systems</p>
+      <p>📅 May 2026 - Present</p>
+    </td>
+    <td width="50%">
+      <h3>🎓 Journey</h3>
+      <p><strong>Associate Release Engineer</strong> → <strong>Release Engineer</strong><br/>(8 months to promotion)</p>
+      <p>🚀 Rapid growth & recognition</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -113,41 +104,18 @@ I'm a passionate **Release Engineer** at Veeva Systems, building bridges between
 
 ## ⭐ Featured Projects
 
-### 🎯 Sprint-Sync
-> **Release & Sprint Management Tool** - CI/CD Pipeline Orchestration
-- 🔧 **Tech:** Jenkins, Shell, Groovy, DevOps
-- 📊 Streamline deployment workflows and automate release coordination
-- [🔗 Explore Repo](https://github.com/Chaitanya-NK/sprint-sync)
+<div align="center">
 
-### 📝 Taskify
-> **Modern Task Management** - Real-Time Synchronization
-- 🎨 **Tech:** React, Firebase, Tailwind CSS
-- ✨ Intuitive UI with real-time updates and seamless collaboration
-- [🔗 Explore Repo](https://github.com/Chaitanya-NK/Taskify)
+| Project | Description | Tech Stack | Links |
+|---------|-------------|-----------|-------|
+| **🎯 Sprint-Sync** | Release & sprint management tool for CI/CD pipelines | Jenkins, Shell, DevOps | [Repo](https://github.com/Chaitanya-NK/sprint-sync) |
+| **📝 Taskify** | Modern task management with real-time sync | React, Firebase, Tailwind | [Repo](https://github.com/Chaitanya-NK/Taskify) |
+| **📚 Gyanalaya Blog** | Full-featured blogging platform | Next.js, MongoDB, Tailwind | [Repo](https://github.com/Chaitanya-NK/gyanalaya-blog-web) |
+| **🛒 E-commerce Store** | Complete shopping experience | React, .NET, TypeScript | [Repo](https://github.com/Chaitanya-NK/ecommerce-store) |
+| **📊 E-commerce Admin** | Powerful admin dashboard | React, TypeScript, Material-UI | [Repo](https://github.com/Chaitanya-NK/ecommerce-admin) |
+| **📈 Tweets Ranking** | AI-powered tweet analysis | Python, ML, Data Analysis | [Repo](https://github.com/Chaitanya-NK/TweetsRanking) |
 
-### 📚 Gyanalaya Blog
-> **Full-Featured Blogging Platform** - Modern Content Management
-- 🚀 **Tech:** Next.js, MongoDB, Tailwind CSS
-- 📖 Responsive design, optimal performance, SEO-friendly
-- [🔗 Explore Repo](https://github.com/Chaitanya-NK/gyanalaya-blog-web)
-
-### 🛒 E-commerce Store
-> **Complete Shopping Experience** - Production-Ready
-- 💳 **Tech:** React, .NET, TypeScript, Material-UI
-- 🛍️ Product catalog, cart management, payment integration
-- [🔗 Explore Repo](https://github.com/Chaitanya-NK/ecommerce-store)
-
-### 📊 E-commerce Admin
-> **Powerful Admin Dashboard** - Business Intelligence
-- 📈 **Tech:** React, TypeScript, Material-UI, Firebase
-- 📉 Real-time analytics, inventory tracking, order management
-- [🔗 Explore Repo](https://github.com/Chaitanya-NK/ecommerce-admin)
-
-### 📈 Tweets Ranking
-> **AI-Powered Analytics** - Machine Learning & Data Science
-- 🤖 **Tech:** Python, ML, Data Analysis
-- 🔍 Sentiment analysis, trend detection, content ranking
-- [🔗 Explore Repo](https://github.com/Chaitanya-NK/TweetsRanking)
+</div>
 
 ---
 
@@ -165,45 +133,36 @@ I'm a passionate **Release Engineer** at Veeva Systems, building bridges between
 
 ## 🎯 Core Competencies
 
-### 🚀 Full-Stack Development
-Crafting beautiful, scalable applications from frontend to backend with modern frameworks and best practices.
-
-**Proficiency:** React • Angular • Next.js • .NET • Java • TypeScript • Responsive Design
-
----
-
-### ⚙️ Release Engineering & CI/CD
-Orchestrating seamless deployments and building robust automation pipelines that keep systems running smoothly.
-
-**Proficiency:** Jenkins • Pipeline Automation • Deployment Strategy • Release Coordination • Groovy
-
----
-
-### 🛠️ DevOps & Infrastructure
-Designing and maintaining scalable infrastructure with focus on automation, monitoring, and system reliability.
-
-**Proficiency:** AWS • Kibana • Monitoring • Infrastructure Automation • System Optimization
-
----
-
-### 🗄️ Database Design & Management
-Architecting efficient, scalable database solutions with expertise across relational and NoSQL systems.
-
-**Proficiency:** MySQL • PostgreSQL • MongoDB • MSSQL • Data Modeling • Query Optimization
-
----
-
-### 🤖 AI/ML & Data Science
-Exploring machine learning applications and data-driven solutions for real-world problems.
-
-**Proficiency:** Python • Machine Learning • Data Analysis • Predictive Analytics • TensorFlow
-
----
-
-### 💡 Problem Solving & Architecture
-Breaking down complex problems into elegant solutions with a focus on performance and maintainability.
-
-**Proficiency:** System Design • Performance Optimization • Rapid Troubleshooting • Code Quality
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🚀 Full-Stack Development</h3>
+      <p>React • Angular • Next.js<br/>.NET • Java • TypeScript<br/>Responsive & scalable UIs</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Release Engineering</h3>
+      <p>CI/CD Pipelines • Jenkins<br/>Deployment Automation<br/>Release Coordination</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ DevOps & Infrastructure</h3>
+      <p>AWS • Kibana • Monitoring<br/>Infrastructure as Code<br/>System Automation</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🗄️ Database Expertise</h3>
+      <p>MySQL • PostgreSQL<br/>MongoDB • MSSQL<br/>Data modeling & optimization</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 AI/ML Exploration</h3>
+      <p>Python • Data Analysis<br/>Machine Learning Projects<br/>Predictive Analytics</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💡 Problem Solving</h3>
+      <p>Complex system design<br/>Performance optimization<br/>Rapid troubleshooting</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -211,25 +170,10 @@ Breaking down complex problems into elegant solutions with a focus on performanc
 
 <div align="center">
 
-### 🔄 Right Now...
-
-🚀 **Advanced DevOps**  
-Infrastructure automation and scaling at enterprise level
-
-🤖 **ML & AI Applications**  
-Turning data into actionable insights
-
-🔧 **CI/CD Optimization**  
-Building faster, smarter deployment pipelines
-
-📚 **Open Source**  
-Contributing to the tech community
-
-🌐 **Full-Stack Innovation**  
-Pushing boundaries with modern tech stacks
-
-💻 **Cloud Architecture**  
-Designing resilient, scalable systems
+| 🚀 | 🤖 | 🔧 | 📚 | 🌐 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Advanced DevOps** | **ML Applications** | **CI/CD Optimization** | **Open Source** | **Full-Stack** |
+| Infrastructure automation | Real-world scenarios | At scale | Contributing | Modern stacks |
 
 </div>
 
